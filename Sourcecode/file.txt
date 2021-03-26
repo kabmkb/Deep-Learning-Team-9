@@ -1,0 +1,15 @@
+                                                               vaccines
+country                                                                
+Afghanistan                                          Oxford/AstraZeneca
+Albania                                                 Pfizer/BioNTech
+Algeria                                                       Sputnik V
+Andorra                                                 Pfizer/BioNTech
+Angola                                               Oxford/AstraZeneca
+...                                                                 ...
+United Arab Emirates  Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm...
+Uruguay                                        Pfizer/BioNTech, Sinovac
+Venezuela                                                     Sputnik V
+Vietnam                                              Oxford/AstraZeneca
+Zimbabwe                                              Sinopharm/Beijing
+
+[136 rows x 1 columns]
